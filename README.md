@@ -22,7 +22,7 @@ Halaman login yang digunakan oleh teknisi IT untuk mengakses sistem GLPI menggun
 
 ![Gambar 2](images2/2.jpeg)
 
-Dashboard utama yang menampilkan ringkasan tiket berdasarkan status seperti Open, Pending, Solved, dan Closed.
+Dashboard utama yang menampilkan ringkasan tiket berdasarkan status seperti Open, Processing, Pending, Solved, dan Closed.
 
 ---
 
