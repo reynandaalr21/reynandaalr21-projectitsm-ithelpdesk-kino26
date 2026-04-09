@@ -1,0 +1,509 @@
+# Finnish translation for GLPI Barcode plugin
+# Copyright (C) 2024 Barcode plugin Development Team
+# This file is distributed under the same license as the barcode package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: barcode 2.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-27 15:52+0000\n"
+"PO-Revision-Date: 2026-02-27 15:52+0000\n"
+"Last-Translator: Claude AI, 2024\n"
+"Language-Team: Finnish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/barcode.class.php:99
+msgid "2A0"
+msgstr "2A0"
+
+#: inc/barcode.class.php:98
+msgid "4A0"
+msgstr "4A0"
+
+#: inc/barcode.class.php:100
+msgid "A0"
+msgstr "A0"
+
+#: inc/barcode.class.php:101
+msgid "A1"
+msgstr "A1"
+
+#: inc/barcode.class.php:110
+msgid "A10"
+msgstr "A10"
+
+#: inc/barcode.class.php:102
+msgid "A2"
+msgstr "A2"
+
+#: inc/barcode.class.php:103
+msgid "A3"
+msgstr "A3"
+
+#: inc/barcode.class.php:104
+msgid "A4"
+msgstr "A4"
+
+#: inc/barcode.class.php:105
+msgid "A5"
+msgstr "A5"
+
+#: inc/barcode.class.php:106
+msgid "A6"
+msgstr "A6"
+
+#: inc/barcode.class.php:107
+msgid "A7"
+msgstr "A7"
+
+#: inc/barcode.class.php:108
+msgid "A8"
+msgstr "A8"
+
+#: inc/barcode.class.php:109
+msgid "A9"
+msgstr "A9"
+
+#: inc/barcode.class.php:111
+msgid "B0"
+msgstr "B0"
+
+#: inc/barcode.class.php:112
+msgid "B1"
+msgstr "B1"
+
+#: inc/barcode.class.php:121
+msgid "B10"
+msgstr "B10"
+
+#: inc/barcode.class.php:113
+msgid "B2"
+msgstr "B2"
+
+#: inc/barcode.class.php:114
+msgid "B3"
+msgstr "B3"
+
+#: inc/barcode.class.php:115
+msgid "B4"
+msgstr "B4"
+
+#: inc/barcode.class.php:116
+msgid "B5"
+msgstr "B5"
+
+#: inc/barcode.class.php:117
+msgid "B6"
+msgstr "B6"
+
+#: inc/barcode.class.php:118
+msgid "B7"
+msgstr "B7"
+
+#: inc/barcode.class.php:119
+msgid "B8"
+msgstr "B8"
+
+#: inc/barcode.class.php:120
+msgid "B9"
+msgstr "B9"
+
+#: front/checkItemByInv.php:37 front/config.php:52 hook.php:18 hook.php:22 inc/barcode.class.php:59 inc/profile.class.php:50 inc/profile.class.php:86 setup.php:88
+msgid "Barcode"
+msgstr "Viivakoodi"
+
+#: inc/config.class.php:61
+msgid "Barcode plugin configuration"
+msgstr "Viivakoodilaajennuksen asetukset"
+
+#: inc/config.class.php:177
+msgid "Barcodes sizes"
+msgstr "Viivakoodien koot"
+
+#: inc/config.class.php:157
+msgid "Bottom"
+msgstr "Alareuna"
+
+#: inc/config.class.php:190
+msgid "By ID"
+msgstr "ID:n mukaan"
+
+#: inc/config.class.php:191
+msgid "By serial number"
+msgstr "Sarjanumeron mukaan"
+
+#: inc/barcode.class.php:122
+msgid "C0"
+msgstr "C0"
+
+#: inc/barcode.class.php:123
+msgid "C1"
+msgstr "C1"
+
+#: inc/barcode.class.php:132
+msgid "C10"
+msgstr "C10"
+
+#: inc/barcode.class.php:124
+msgid "C2"
+msgstr "C2"
+
+#: inc/barcode.class.php:125
+msgid "C3"
+msgstr "C3"
+
+#: inc/barcode.class.php:126
+msgid "C4"
+msgstr "C4"
+
+#: inc/barcode.class.php:127
+msgid "C5"
+msgstr "C5"
+
+#: inc/barcode.class.php:128
+msgid "C6"
+msgstr "C6"
+
+#: inc/barcode.class.php:129
+msgid "C7"
+msgstr "C7"
+
+#: inc/barcode.class.php:130
+msgid "C8"
+msgstr "C8"
+
+#: inc/barcode.class.php:131
+msgid "C9"
+msgstr "C9"
+
+#: inc/barcode.class.php:180
+msgid "Code"
+msgstr "Koodi"
+
+#: inc/config.class.php:264
+msgid "code128"
+msgstr "code128"
+
+#: inc/config.class.php:263
+msgid "code39"
+msgstr "code39"
+
+#: inc/config.class.php:82
+msgid "Company logo"
+msgstr "Yrityksen logo"
+
+#: inc/barcode.class.php:200 inc/barcode.class.php:278
+msgid "Create"
+msgstr "Luo"
+
+#: inc/qrcode.class.php:151
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: inc/qrcode.class.php:309
+msgid "Date QRcode"
+msgstr "QR-koodin päivämäärä"
+
+#: inc/config.class.php:94
+msgid "Delete the logo"
+msgstr "Poista logo"
+
+#: inc/barcode.class.php:261
+msgid "Display border"
+msgstr "Näytä reunus"
+
+#: inc/qrcode.class.php:313
+msgid "Display date QRcode"
+msgstr "Näytä QR-koodin päivämäärä"
+
+#: inc/qrcode.class.php:233
+msgid "Display ID"
+msgstr "Näytä ID"
+
+#: inc/qrcode.class.php:219
+msgid "Display inventory number"
+msgstr "Näytä varastonumero"
+
+#: inc/barcode.class.php:269
+msgid "Display labels"
+msgstr "Näytä nimiöt"
+
+#: inc/qrcode.class.php:281
+msgid "Display name"
+msgstr "Näytä nimi"
+
+#: inc/qrcode.class.php:202
+msgid "Display serial number"
+msgstr "Näytä sarjanumero"
+
+#: inc/qrcode.class.php:271
+msgid "Display UUID"
+msgstr "Näytä UUID"
+
+#: inc/qrcode.class.php:291
+msgid "Display web page of the device"
+msgstr "Näytä laitteen verkkosivu"
+
+#: inc/config.class.php:265
+msgid "ean13"
+msgstr "ean13"
+
+#: inc/config.class.php:78
+msgid "Empty the cache"
+msgstr "Tyhjennä välimuisti"
+
+#: inc/barcode.class.php:145
+msgid "EXECUTIVE"
+msgstr "EXECUTIVE"
+
+#: inc/barcode.class.php:146
+msgid "FOLIO"
+msgstr "FOLIO"
+
+#: inc/config.class.php:66
+msgid "General configuration"
+msgstr "Yleiset asetukset"
+
+#: front/barcode.form.php:62 inc/barcode.class.php:535 inc/qrcode.class.php:411
+msgid "Generated file"
+msgstr "Luotu tiedosto"
+
+#: inc/barcode.class.php:178
+msgid "Generation"
+msgstr "Luonti"
+
+#: inc/profile.class.php:126
+msgid "Generation of barcode"
+msgstr "Viivakoodin luonti"
+
+#: inc/qrcode.class.php:91 inc/qrcode.class.php:95 inc/qrcode.class.php:229
+msgid "ID"
+msgstr "ID"
+
+#: inc/config.class.php:170
+msgid "Inner horizontal"
+msgstr "Sisäinen vaakasuora"
+
+#: inc/config.class.php:173
+msgid "Inner vertical"
+msgstr "Sisäinen pystysuora"
+
+#: inc/config.class.php:266
+msgid "int25"
+msgstr "int25"
+
+#: front/document.send.php:32
+msgid "Invalid Filename"
+msgstr "Virheellinen tiedostonimi"
+
+#: inc/barcode.class.php:219 inc/qrcode.class.php:78 inc/qrcode.class.php:82 inc/qrcode.class.php:215
+msgid "Inventory number"
+msgstr "Varastonumero"
+
+#: inc/barcode.class.php:215
+msgid "It will generate only elements have defined field:"
+msgstr "Se luo vain elementit, joilla on määritetty kenttä:"
+
+#: inc/qrcode.class.php:119 inc/qrcode.class.php:123
+msgid "Item Name"
+msgstr "Kohteen nimi"
+
+#: inc/qrcode.class.php:137
+msgid "Item URL"
+msgstr "Kohteen URL"
+
+#: inc/barcode.class.php:157
+msgid "Landscape"
+msgstr "Vaaka"
+
+#: inc/config.class.php:162
+msgid "Left"
+msgstr "Vasen"
+
+#: inc/barcode.class.php:144
+msgid "LEGAL"
+msgstr "LEGAL"
+
+#: inc/barcode.class.php:143
+msgid "LETTER"
+msgstr "LETTER"
+
+#: inc/profile.class.php:122
+msgid "Manage configuration"
+msgstr "Hallinnoi asetuksia"
+
+#: inc/config.class.php:152
+msgid "Margins"
+msgstr "Marginaalit"
+
+#: inc/config.class.php:182
+msgid "Maximum height"
+msgstr "Suurin korkeus"
+
+#: inc/config.class.php:179
+msgid "Maximum width"
+msgstr "Suurin leveys"
+
+#: inc/qrcode.class.php:252 inc/qrcode.class.php:277
+msgid "Name"
+msgstr "Nimi"
+
+#: front/checkItemByInv.php:45
+msgid "No item found"
+msgstr "Kohdetta ei löydy"
+
+#: inc/barcode.class.php:251
+msgid "Not use first xx barcodes"
+msgstr "Älä käytä ensimmäisiä xx viivakoodeja"
+
+#: inc/qrcode.class.php:320
+msgid "Note: Currently supporting only up to 2 lines."
+msgstr "Huom: Tällä hetkellä tuetaan enintään 2 riviä."
+
+#: inc/barcode.class.php:195
+msgid "Number of copies"
+msgstr "Kopioiden määrä"
+
+#: inc/barcode.class.php:190 inc/barcode.class.php:257 inc/config.class.php:148
+msgid "Orientation"
+msgstr "Suunta"
+
+#: inc/barcode.class.php:187 inc/barcode.class.php:247 inc/config.class.php:145
+msgid "Page size"
+msgstr "Sivukoko"
+
+#: inc/barcode.class.php:156
+msgid "Portrait"
+msgstr "Pysty"
+
+#: inc/config.class.php:267
+msgid "postnet"
+msgstr "postnet"
+
+#: hook.php:18
+msgid "Print barcodes"
+msgstr "Tulosta viivakoodit"
+
+#: hook.php:22
+msgid "Print QRcodes"
+msgstr "Tulosta QR-koodit"
+
+#: inc/config.class.php:269
+msgid "QRcode"
+msgstr "QRcode"
+
+#: inc/barcode.class.php:133
+msgid "RA0"
+msgstr "RA0"
+
+#: inc/barcode.class.php:134
+msgid "RA1"
+msgstr "RA1"
+
+#: inc/barcode.class.php:135
+msgid "RA2"
+msgstr "RA2"
+
+#: inc/barcode.class.php:136
+msgid "RA3"
+msgstr "RA3"
+
+#: inc/barcode.class.php:137
+msgid "RA4"
+msgstr "RA4"
+
+#: inc/config.class.php:165
+msgid "Right"
+msgstr "Oikea"
+
+#: inc/qrcode.class.php:65 inc/qrcode.class.php:69 inc/qrcode.class.php:198
+msgid "Serial number"
+msgstr "Sarjanumero"
+
+#: inc/barcode.class.php:138
+msgid "SRA0"
+msgstr "SRA0"
+
+#: inc/barcode.class.php:139
+msgid "SRA1"
+msgstr "SRA1"
+
+#: inc/barcode.class.php:140
+msgid "SRA2"
+msgstr "SRA2"
+
+#: inc/barcode.class.php:141
+msgid "SRA3"
+msgstr "SRA3"
+
+#: inc/barcode.class.php:142
+msgid "SRA4"
+msgstr "SRA4"
+
+#: inc/config.class.php:196
+msgid "Text display options"
+msgstr "Tekstin näyttöasetukset"
+
+#: inc/config.class.php:198
+msgid "Text size"
+msgstr "Tekstikoko"
+
+#: inc/config.class.php:201
+msgid "Text spacing between lines"
+msgstr "Rivien välinen tekstiväli"
+
+#: front/config.form.php:56
+msgid "The cache has been emptied."
+msgstr "Välimuisti on tyhjennetty."
+
+#: inc/barcode.class.php:307
+msgid "The generation of some barcodes produced errors."
+msgstr "Joidenkin viivakoodien luonti tuotti virheitä."
+
+#: front/config.form.php:61
+msgid "The logo has been removed."
+msgstr "Logo on poistettu."
+
+#: inc/barcode.class.php:217
+msgid "Ticket number"
+msgstr "Tiketin numero"
+
+#: inc/config.class.php:154
+msgid "Top"
+msgstr "Yläreunus"
+
+#: inc/barcode.class.php:183 inc/barcode.class.php:226 inc/config.class.php:70
+msgid "Type"
+msgstr "Tyyppi"
+
+#: front/document.send.php:39 front/document.send.php:46 front/document.send.php:52
+msgid "Unauthorized access to this file"
+msgstr "Luvaton pääsy tähän tiedostoon"
+
+#: inc/config.class.php:268
+msgid "upca"
+msgstr "upca"
+
+#: inc/config.class.php:188
+msgid "URL"
+msgstr "URL"
+
+#: inc/qrcode.class.php:261
+msgid "URL by inventory number"
+msgstr "URL varastonumeron mukaan"
+
+#: inc/qrcode.class.php:105 inc/qrcode.class.php:109 inc/qrcode.class.php:241 inc/qrcode.class.php:267
+msgid "UUID"
+msgstr "UUID"
+
+#: inc/qrcode.class.php:287
+msgid "Web page of the device"
+msgstr "Laitteen verkkosivu"
+
+#: inc/qrcode.class.php:299
+msgid "Web page of the item"
+msgstr "Kohteen verkkosivu"

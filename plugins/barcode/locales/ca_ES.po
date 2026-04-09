@@ -1,0 +1,509 @@
+# Catalan translation for GLPI Barcode plugin
+# Copyright (C) 2024 Barcode plugin Development Team
+# This file is distributed under the same license as the barcode package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: barcode 2.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-27 15:52+0000\n"
+"PO-Revision-Date: 2026-02-27 15:52+0000\n"
+"Last-Translator: Claude AI, 2024\n"
+"Language-Team: Catalan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/barcode.class.php:99
+msgid "2A0"
+msgstr "2A0"
+
+#: inc/barcode.class.php:98
+msgid "4A0"
+msgstr "4A0"
+
+#: inc/barcode.class.php:100
+msgid "A0"
+msgstr "A0"
+
+#: inc/barcode.class.php:101
+msgid "A1"
+msgstr "A1"
+
+#: inc/barcode.class.php:110
+msgid "A10"
+msgstr "A10"
+
+#: inc/barcode.class.php:102
+msgid "A2"
+msgstr "A2"
+
+#: inc/barcode.class.php:103
+msgid "A3"
+msgstr "A3"
+
+#: inc/barcode.class.php:104
+msgid "A4"
+msgstr "A4"
+
+#: inc/barcode.class.php:105
+msgid "A5"
+msgstr "A5"
+
+#: inc/barcode.class.php:106
+msgid "A6"
+msgstr "A6"
+
+#: inc/barcode.class.php:107
+msgid "A7"
+msgstr "A7"
+
+#: inc/barcode.class.php:108
+msgid "A8"
+msgstr "A8"
+
+#: inc/barcode.class.php:109
+msgid "A9"
+msgstr "A9"
+
+#: inc/barcode.class.php:111
+msgid "B0"
+msgstr "B0"
+
+#: inc/barcode.class.php:112
+msgid "B1"
+msgstr "B1"
+
+#: inc/barcode.class.php:121
+msgid "B10"
+msgstr "B10"
+
+#: inc/barcode.class.php:113
+msgid "B2"
+msgstr "B2"
+
+#: inc/barcode.class.php:114
+msgid "B3"
+msgstr "B3"
+
+#: inc/barcode.class.php:115
+msgid "B4"
+msgstr "B4"
+
+#: inc/barcode.class.php:116
+msgid "B5"
+msgstr "B5"
+
+#: inc/barcode.class.php:117
+msgid "B6"
+msgstr "B6"
+
+#: inc/barcode.class.php:118
+msgid "B7"
+msgstr "B7"
+
+#: inc/barcode.class.php:119
+msgid "B8"
+msgstr "B8"
+
+#: inc/barcode.class.php:120
+msgid "B9"
+msgstr "B9"
+
+#: front/checkItemByInv.php:37 front/config.php:52 hook.php:18 hook.php:22 inc/barcode.class.php:59 inc/profile.class.php:50 inc/profile.class.php:86 setup.php:88
+msgid "Barcode"
+msgstr "Codi de barres"
+
+#: inc/config.class.php:61
+msgid "Barcode plugin configuration"
+msgstr "Configuració del connector de codis de barres"
+
+#: inc/config.class.php:177
+msgid "Barcodes sizes"
+msgstr "Mides dels codis de barres"
+
+#: inc/config.class.php:157
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/config.class.php:190
+msgid "By ID"
+msgstr "Per ID"
+
+#: inc/config.class.php:191
+msgid "By serial number"
+msgstr "Per número de sèrie"
+
+#: inc/barcode.class.php:122
+msgid "C0"
+msgstr "C0"
+
+#: inc/barcode.class.php:123
+msgid "C1"
+msgstr "C1"
+
+#: inc/barcode.class.php:132
+msgid "C10"
+msgstr "C10"
+
+#: inc/barcode.class.php:124
+msgid "C2"
+msgstr "C2"
+
+#: inc/barcode.class.php:125
+msgid "C3"
+msgstr "C3"
+
+#: inc/barcode.class.php:126
+msgid "C4"
+msgstr "C4"
+
+#: inc/barcode.class.php:127
+msgid "C5"
+msgstr "C5"
+
+#: inc/barcode.class.php:128
+msgid "C6"
+msgstr "C6"
+
+#: inc/barcode.class.php:129
+msgid "C7"
+msgstr "C7"
+
+#: inc/barcode.class.php:130
+msgid "C8"
+msgstr "C8"
+
+#: inc/barcode.class.php:131
+msgid "C9"
+msgstr "C9"
+
+#: inc/barcode.class.php:180
+msgid "Code"
+msgstr "Codi"
+
+#: inc/config.class.php:264
+msgid "code128"
+msgstr "code128"
+
+#: inc/config.class.php:263
+msgid "code39"
+msgstr "code39"
+
+#: inc/config.class.php:82
+msgid "Company logo"
+msgstr "Logotip de l'empresa"
+
+#: inc/barcode.class.php:200 inc/barcode.class.php:278
+msgid "Create"
+msgstr "Crear"
+
+#: inc/qrcode.class.php:151
+msgid "Date"
+msgstr "Data"
+
+#: inc/qrcode.class.php:309
+msgid "Date QRcode"
+msgstr "Data del codi QR"
+
+#: inc/config.class.php:94
+msgid "Delete the logo"
+msgstr "Eliminar el logotip"
+
+#: inc/barcode.class.php:261
+msgid "Display border"
+msgstr "Mostrar vora"
+
+#: inc/qrcode.class.php:313
+msgid "Display date QRcode"
+msgstr "Mostrar data del codi QR"
+
+#: inc/qrcode.class.php:233
+msgid "Display ID"
+msgstr "Mostrar ID"
+
+#: inc/qrcode.class.php:219
+msgid "Display inventory number"
+msgstr "Mostrar número d'inventari"
+
+#: inc/barcode.class.php:269
+msgid "Display labels"
+msgstr "Mostrar etiquetes"
+
+#: inc/qrcode.class.php:281
+msgid "Display name"
+msgstr "Mostrar nom"
+
+#: inc/qrcode.class.php:202
+msgid "Display serial number"
+msgstr "Mostrar número de sèrie"
+
+#: inc/qrcode.class.php:271
+msgid "Display UUID"
+msgstr "Mostrar UUID"
+
+#: inc/qrcode.class.php:291
+msgid "Display web page of the device"
+msgstr "Mostrar pàgina web del dispositiu"
+
+#: inc/config.class.php:265
+msgid "ean13"
+msgstr "ean13"
+
+#: inc/config.class.php:78
+msgid "Empty the cache"
+msgstr "Buidar la memòria cau"
+
+#: inc/barcode.class.php:145
+msgid "EXECUTIVE"
+msgstr "EXECUTIVE"
+
+#: inc/barcode.class.php:146
+msgid "FOLIO"
+msgstr "FOLIO"
+
+#: inc/config.class.php:66
+msgid "General configuration"
+msgstr "Configuració general"
+
+#: front/barcode.form.php:62 inc/barcode.class.php:535 inc/qrcode.class.php:411
+msgid "Generated file"
+msgstr "Fitxer generat"
+
+#: inc/barcode.class.php:178
+msgid "Generation"
+msgstr "Generació"
+
+#: inc/profile.class.php:126
+msgid "Generation of barcode"
+msgstr "Generació de codi de barres"
+
+#: inc/qrcode.class.php:91 inc/qrcode.class.php:95 inc/qrcode.class.php:229
+msgid "ID"
+msgstr "ID"
+
+#: inc/config.class.php:170
+msgid "Inner horizontal"
+msgstr "Horitzontal interior"
+
+#: inc/config.class.php:173
+msgid "Inner vertical"
+msgstr "Vertical interior"
+
+#: inc/config.class.php:266
+msgid "int25"
+msgstr "int25"
+
+#: front/document.send.php:32
+msgid "Invalid Filename"
+msgstr "Nom de fitxer invàlid"
+
+#: inc/barcode.class.php:219 inc/qrcode.class.php:78 inc/qrcode.class.php:82 inc/qrcode.class.php:215
+msgid "Inventory number"
+msgstr "Número d'inventari"
+
+#: inc/barcode.class.php:215
+msgid "It will generate only elements have defined field:"
+msgstr "Només generarà elements que tinguin el camp definit:"
+
+#: inc/qrcode.class.php:119 inc/qrcode.class.php:123
+msgid "Item Name"
+msgstr "Nom de l'element"
+
+#: inc/qrcode.class.php:137
+msgid "Item URL"
+msgstr "URL de l'element"
+
+#: inc/barcode.class.php:157
+msgid "Landscape"
+msgstr "Horitzontal"
+
+#: inc/config.class.php:162
+msgid "Left"
+msgstr "Esquerra"
+
+#: inc/barcode.class.php:144
+msgid "LEGAL"
+msgstr "LEGAL"
+
+#: inc/barcode.class.php:143
+msgid "LETTER"
+msgstr "LETTER"
+
+#: inc/profile.class.php:122
+msgid "Manage configuration"
+msgstr "Gestionar la configuració"
+
+#: inc/config.class.php:152
+msgid "Margins"
+msgstr "Marges"
+
+#: inc/config.class.php:182
+msgid "Maximum height"
+msgstr "Alçada màxima"
+
+#: inc/config.class.php:179
+msgid "Maximum width"
+msgstr "Amplada màxima"
+
+#: inc/qrcode.class.php:252 inc/qrcode.class.php:277
+msgid "Name"
+msgstr "Nom"
+
+#: front/checkItemByInv.php:45
+msgid "No item found"
+msgstr "No s'ha trobat cap element"
+
+#: inc/barcode.class.php:251
+msgid "Not use first xx barcodes"
+msgstr "No usar els primers xx codis de barres"
+
+#: inc/qrcode.class.php:320
+msgid "Note: Currently supporting only up to 2 lines."
+msgstr "Nota: Actualment s'admeten com a màxim 2 línies."
+
+#: inc/barcode.class.php:195
+msgid "Number of copies"
+msgstr "Nombre de còpies"
+
+#: inc/barcode.class.php:190 inc/barcode.class.php:257 inc/config.class.php:148
+msgid "Orientation"
+msgstr "Orientació"
+
+#: inc/barcode.class.php:187 inc/barcode.class.php:247 inc/config.class.php:145
+msgid "Page size"
+msgstr "Mida de pàgina"
+
+#: inc/barcode.class.php:156
+msgid "Portrait"
+msgstr "Vertical"
+
+#: inc/config.class.php:267
+msgid "postnet"
+msgstr "postnet"
+
+#: hook.php:18
+msgid "Print barcodes"
+msgstr "Imprime codis de barres"
+
+#: hook.php:22
+msgid "Print QRcodes"
+msgstr "Imprime codis QR"
+
+#: inc/config.class.php:269
+msgid "QRcode"
+msgstr "QRcode"
+
+#: inc/barcode.class.php:133
+msgid "RA0"
+msgstr "RA0"
+
+#: inc/barcode.class.php:134
+msgid "RA1"
+msgstr "RA1"
+
+#: inc/barcode.class.php:135
+msgid "RA2"
+msgstr "RA2"
+
+#: inc/barcode.class.php:136
+msgid "RA3"
+msgstr "RA3"
+
+#: inc/barcode.class.php:137
+msgid "RA4"
+msgstr "RA4"
+
+#: inc/config.class.php:165
+msgid "Right"
+msgstr "Dret"
+
+#: inc/qrcode.class.php:65 inc/qrcode.class.php:69 inc/qrcode.class.php:198
+msgid "Serial number"
+msgstr "Número de sèrie"
+
+#: inc/barcode.class.php:138
+msgid "SRA0"
+msgstr "SRA0"
+
+#: inc/barcode.class.php:139
+msgid "SRA1"
+msgstr "SRA1"
+
+#: inc/barcode.class.php:140
+msgid "SRA2"
+msgstr "SRA2"
+
+#: inc/barcode.class.php:141
+msgid "SRA3"
+msgstr "SRA3"
+
+#: inc/barcode.class.php:142
+msgid "SRA4"
+msgstr "SRA4"
+
+#: inc/config.class.php:196
+msgid "Text display options"
+msgstr "Opcions de visualització de text"
+
+#: inc/config.class.php:198
+msgid "Text size"
+msgstr "Mida del text"
+
+#: inc/config.class.php:201
+msgid "Text spacing between lines"
+msgstr "Espaiat entre línies"
+
+#: front/config.form.php:56
+msgid "The cache has been emptied."
+msgstr "La memòria cau s'ha buidat."
+
+#: inc/barcode.class.php:307
+msgid "The generation of some barcodes produced errors."
+msgstr "La generació d'alguns codis de barres ha produït errors."
+
+#: front/config.form.php:61
+msgid "The logo has been removed."
+msgstr "El logotip s'ha eliminat."
+
+#: inc/barcode.class.php:217
+msgid "Ticket number"
+msgstr "Número de tiquet"
+
+#: inc/config.class.php:154
+msgid "Top"
+msgstr "Superior"
+
+#: inc/barcode.class.php:183 inc/barcode.class.php:226 inc/config.class.php:70
+msgid "Type"
+msgstr "Tipus"
+
+#: front/document.send.php:39 front/document.send.php:46 front/document.send.php:52
+msgid "Unauthorized access to this file"
+msgstr "Accés no autoritzat a aquest fitxer"
+
+#: inc/config.class.php:268
+msgid "upca"
+msgstr "upca"
+
+#: inc/config.class.php:188
+msgid "URL"
+msgstr "URL"
+
+#: inc/qrcode.class.php:261
+msgid "URL by inventory number"
+msgstr "URL per número d'inventari"
+
+#: inc/qrcode.class.php:105 inc/qrcode.class.php:109 inc/qrcode.class.php:241 inc/qrcode.class.php:267
+msgid "UUID"
+msgstr "UUID"
+
+#: inc/qrcode.class.php:287
+msgid "Web page of the device"
+msgstr "Pàgina web del dispositiu"
+
+#: inc/qrcode.class.php:299
+msgid "Web page of the item"
+msgstr "Pàgina web de l'element"

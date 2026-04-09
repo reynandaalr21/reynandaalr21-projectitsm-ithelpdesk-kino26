@@ -1,0 +1,509 @@
+# Korean translation for GLPI Barcode plugin
+# Copyright (C) 2024 Barcode plugin Development Team
+# This file is distributed under the same license as the barcode package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: barcode 2.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-27 15:52+0000\n"
+"PO-Revision-Date: 2026-02-27 15:52+0000\n"
+"Last-Translator: Claude AI, 2024\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: inc/barcode.class.php:99
+msgid "2A0"
+msgstr "2A0"
+
+#: inc/barcode.class.php:98
+msgid "4A0"
+msgstr "4A0"
+
+#: inc/barcode.class.php:100
+msgid "A0"
+msgstr "A0"
+
+#: inc/barcode.class.php:101
+msgid "A1"
+msgstr "A1"
+
+#: inc/barcode.class.php:110
+msgid "A10"
+msgstr "A10"
+
+#: inc/barcode.class.php:102
+msgid "A2"
+msgstr "A2"
+
+#: inc/barcode.class.php:103
+msgid "A3"
+msgstr "A3"
+
+#: inc/barcode.class.php:104
+msgid "A4"
+msgstr "A4"
+
+#: inc/barcode.class.php:105
+msgid "A5"
+msgstr "A5"
+
+#: inc/barcode.class.php:106
+msgid "A6"
+msgstr "A6"
+
+#: inc/barcode.class.php:107
+msgid "A7"
+msgstr "A7"
+
+#: inc/barcode.class.php:108
+msgid "A8"
+msgstr "A8"
+
+#: inc/barcode.class.php:109
+msgid "A9"
+msgstr "A9"
+
+#: inc/barcode.class.php:111
+msgid "B0"
+msgstr "B0"
+
+#: inc/barcode.class.php:112
+msgid "B1"
+msgstr "B1"
+
+#: inc/barcode.class.php:121
+msgid "B10"
+msgstr "B10"
+
+#: inc/barcode.class.php:113
+msgid "B2"
+msgstr "B2"
+
+#: inc/barcode.class.php:114
+msgid "B3"
+msgstr "B3"
+
+#: inc/barcode.class.php:115
+msgid "B4"
+msgstr "B4"
+
+#: inc/barcode.class.php:116
+msgid "B5"
+msgstr "B5"
+
+#: inc/barcode.class.php:117
+msgid "B6"
+msgstr "B6"
+
+#: inc/barcode.class.php:118
+msgid "B7"
+msgstr "B7"
+
+#: inc/barcode.class.php:119
+msgid "B8"
+msgstr "B8"
+
+#: inc/barcode.class.php:120
+msgid "B9"
+msgstr "B9"
+
+#: front/checkItemByInv.php:37 front/config.php:52 hook.php:18 hook.php:22 inc/barcode.class.php:59 inc/profile.class.php:50 inc/profile.class.php:86 setup.php:88
+msgid "Barcode"
+msgstr "바코드"
+
+#: inc/config.class.php:61
+msgid "Barcode plugin configuration"
+msgstr "바코드 플러그인 설정"
+
+#: inc/config.class.php:177
+msgid "Barcodes sizes"
+msgstr "바코드 크기"
+
+#: inc/config.class.php:157
+msgid "Bottom"
+msgstr "아래"
+
+#: inc/config.class.php:190
+msgid "By ID"
+msgstr "ID로"
+
+#: inc/config.class.php:191
+msgid "By serial number"
+msgstr "일련번호로"
+
+#: inc/barcode.class.php:122
+msgid "C0"
+msgstr "C0"
+
+#: inc/barcode.class.php:123
+msgid "C1"
+msgstr "C1"
+
+#: inc/barcode.class.php:132
+msgid "C10"
+msgstr "C10"
+
+#: inc/barcode.class.php:124
+msgid "C2"
+msgstr "C2"
+
+#: inc/barcode.class.php:125
+msgid "C3"
+msgstr "C3"
+
+#: inc/barcode.class.php:126
+msgid "C4"
+msgstr "C4"
+
+#: inc/barcode.class.php:127
+msgid "C5"
+msgstr "C5"
+
+#: inc/barcode.class.php:128
+msgid "C6"
+msgstr "C6"
+
+#: inc/barcode.class.php:129
+msgid "C7"
+msgstr "C7"
+
+#: inc/barcode.class.php:130
+msgid "C8"
+msgstr "C8"
+
+#: inc/barcode.class.php:131
+msgid "C9"
+msgstr "C9"
+
+#: inc/barcode.class.php:180
+msgid "Code"
+msgstr "코드"
+
+#: inc/config.class.php:264
+msgid "code128"
+msgstr "code128"
+
+#: inc/config.class.php:263
+msgid "code39"
+msgstr "code39"
+
+#: inc/config.class.php:82
+msgid "Company logo"
+msgstr "회사 로고"
+
+#: inc/barcode.class.php:200 inc/barcode.class.php:278
+msgid "Create"
+msgstr "생성"
+
+#: inc/qrcode.class.php:151
+msgid "Date"
+msgstr "날짜"
+
+#: inc/qrcode.class.php:309
+msgid "Date QRcode"
+msgstr "QR 코드 날짜"
+
+#: inc/config.class.php:94
+msgid "Delete the logo"
+msgstr "로고 삭제"
+
+#: inc/barcode.class.php:261
+msgid "Display border"
+msgstr "테두리 표시"
+
+#: inc/qrcode.class.php:313
+msgid "Display date QRcode"
+msgstr "QR 코드 날짜 표시"
+
+#: inc/qrcode.class.php:233
+msgid "Display ID"
+msgstr "ID 표시"
+
+#: inc/qrcode.class.php:219
+msgid "Display inventory number"
+msgstr "인벤토리 번호 표시"
+
+#: inc/barcode.class.php:269
+msgid "Display labels"
+msgstr "레이블 표시"
+
+#: inc/qrcode.class.php:281
+msgid "Display name"
+msgstr "이름 표시"
+
+#: inc/qrcode.class.php:202
+msgid "Display serial number"
+msgstr "일련번호 표시"
+
+#: inc/qrcode.class.php:271
+msgid "Display UUID"
+msgstr "UUID 표시"
+
+#: inc/qrcode.class.php:291
+msgid "Display web page of the device"
+msgstr "장치 웹 페이지 표시"
+
+#: inc/config.class.php:265
+msgid "ean13"
+msgstr "ean13"
+
+#: inc/config.class.php:78
+msgid "Empty the cache"
+msgstr "캐시 비우기"
+
+#: inc/barcode.class.php:145
+msgid "EXECUTIVE"
+msgstr "EXECUTIVE"
+
+#: inc/barcode.class.php:146
+msgid "FOLIO"
+msgstr "FOLIO"
+
+#: inc/config.class.php:66
+msgid "General configuration"
+msgstr "일반 설정"
+
+#: front/barcode.form.php:62 inc/barcode.class.php:535 inc/qrcode.class.php:411
+msgid "Generated file"
+msgstr "생성된 파일"
+
+#: inc/barcode.class.php:178
+msgid "Generation"
+msgstr "생성"
+
+#: inc/profile.class.php:126
+msgid "Generation of barcode"
+msgstr "바코드 생성"
+
+#: inc/qrcode.class.php:91 inc/qrcode.class.php:95 inc/qrcode.class.php:229
+msgid "ID"
+msgstr "ID"
+
+#: inc/config.class.php:170
+msgid "Inner horizontal"
+msgstr "내부 수평"
+
+#: inc/config.class.php:173
+msgid "Inner vertical"
+msgstr "내부 수직"
+
+#: inc/config.class.php:266
+msgid "int25"
+msgstr "int25"
+
+#: front/document.send.php:32
+msgid "Invalid Filename"
+msgstr "잘못된 파일 이름"
+
+#: inc/barcode.class.php:219 inc/qrcode.class.php:78 inc/qrcode.class.php:82 inc/qrcode.class.php:215
+msgid "Inventory number"
+msgstr "인벤토리 번호"
+
+#: inc/barcode.class.php:215
+msgid "It will generate only elements have defined field:"
+msgstr "정의된 필드가 있는 요소만 생성됩니다:"
+
+#: inc/qrcode.class.php:119 inc/qrcode.class.php:123
+msgid "Item Name"
+msgstr "항목 이름"
+
+#: inc/qrcode.class.php:137
+msgid "Item URL"
+msgstr "항목 URL"
+
+#: inc/barcode.class.php:157
+msgid "Landscape"
+msgstr "가로"
+
+#: inc/config.class.php:162
+msgid "Left"
+msgstr "왼쪽"
+
+#: inc/barcode.class.php:144
+msgid "LEGAL"
+msgstr "LEGAL"
+
+#: inc/barcode.class.php:143
+msgid "LETTER"
+msgstr "LETTER"
+
+#: inc/profile.class.php:122
+msgid "Manage configuration"
+msgstr "설정 관리"
+
+#: inc/config.class.php:152
+msgid "Margins"
+msgstr "여백"
+
+#: inc/config.class.php:182
+msgid "Maximum height"
+msgstr "최대 높이"
+
+#: inc/config.class.php:179
+msgid "Maximum width"
+msgstr "최대 너비"
+
+#: inc/qrcode.class.php:252 inc/qrcode.class.php:277
+msgid "Name"
+msgstr "이름"
+
+#: front/checkItemByInv.php:45
+msgid "No item found"
+msgstr "항목을 찾을 수 없습니다"
+
+#: inc/barcode.class.php:251
+msgid "Not use first xx barcodes"
+msgstr "처음 xx개 바코드 제외"
+
+#: inc/qrcode.class.php:320
+msgid "Note: Currently supporting only up to 2 lines."
+msgstr "참고: 현재 최대 2줄까지만 지원됩니다."
+
+#: inc/barcode.class.php:195
+msgid "Number of copies"
+msgstr "복사본 수"
+
+#: inc/barcode.class.php:190 inc/barcode.class.php:257 inc/config.class.php:148
+msgid "Orientation"
+msgstr "방향"
+
+#: inc/barcode.class.php:187 inc/barcode.class.php:247 inc/config.class.php:145
+msgid "Page size"
+msgstr "페이지 크기"
+
+#: inc/barcode.class.php:156
+msgid "Portrait"
+msgstr "세로"
+
+#: inc/config.class.php:267
+msgid "postnet"
+msgstr "postnet"
+
+#: hook.php:18
+msgid "Print barcodes"
+msgstr "바코드 인쇄"
+
+#: hook.php:22
+msgid "Print QRcodes"
+msgstr "QR 코드 인쇄"
+
+#: inc/config.class.php:269
+msgid "QRcode"
+msgstr "QRcode"
+
+#: inc/barcode.class.php:133
+msgid "RA0"
+msgstr "RA0"
+
+#: inc/barcode.class.php:134
+msgid "RA1"
+msgstr "RA1"
+
+#: inc/barcode.class.php:135
+msgid "RA2"
+msgstr "RA2"
+
+#: inc/barcode.class.php:136
+msgid "RA3"
+msgstr "RA3"
+
+#: inc/barcode.class.php:137
+msgid "RA4"
+msgstr "RA4"
+
+#: inc/config.class.php:165
+msgid "Right"
+msgstr "오른쪽"
+
+#: inc/qrcode.class.php:65 inc/qrcode.class.php:69 inc/qrcode.class.php:198
+msgid "Serial number"
+msgstr "일련번호"
+
+#: inc/barcode.class.php:138
+msgid "SRA0"
+msgstr "SRA0"
+
+#: inc/barcode.class.php:139
+msgid "SRA1"
+msgstr "SRA1"
+
+#: inc/barcode.class.php:140
+msgid "SRA2"
+msgstr "SRA2"
+
+#: inc/barcode.class.php:141
+msgid "SRA3"
+msgstr "SRA3"
+
+#: inc/barcode.class.php:142
+msgid "SRA4"
+msgstr "SRA4"
+
+#: inc/config.class.php:196
+msgid "Text display options"
+msgstr "텍스트 표시 옵션"
+
+#: inc/config.class.php:198
+msgid "Text size"
+msgstr "텍스트 크기"
+
+#: inc/config.class.php:201
+msgid "Text spacing between lines"
+msgstr "줄 간격"
+
+#: front/config.form.php:56
+msgid "The cache has been emptied."
+msgstr "캐시가 비워졌습니다."
+
+#: inc/barcode.class.php:307
+msgid "The generation of some barcodes produced errors."
+msgstr "일부 바코드 생성에서 오류가 발생했습니다."
+
+#: front/config.form.php:61
+msgid "The logo has been removed."
+msgstr "로고가 삭제되었습니다."
+
+#: inc/barcode.class.php:217
+msgid "Ticket number"
+msgstr "티켓 번호"
+
+#: inc/config.class.php:154
+msgid "Top"
+msgstr "위"
+
+#: inc/barcode.class.php:183 inc/barcode.class.php:226 inc/config.class.php:70
+msgid "Type"
+msgstr "유형"
+
+#: front/document.send.php:39 front/document.send.php:46 front/document.send.php:52
+msgid "Unauthorized access to this file"
+msgstr "이 파일에 대한 무단 접근"
+
+#: inc/config.class.php:268
+msgid "upca"
+msgstr "upca"
+
+#: inc/config.class.php:188
+msgid "URL"
+msgstr "URL"
+
+#: inc/qrcode.class.php:261
+msgid "URL by inventory number"
+msgstr "인벤토리 번호별 URL"
+
+#: inc/qrcode.class.php:105 inc/qrcode.class.php:109 inc/qrcode.class.php:241 inc/qrcode.class.php:267
+msgid "UUID"
+msgstr "UUID"
+
+#: inc/qrcode.class.php:287
+msgid "Web page of the device"
+msgstr "장치 웹 페이지"
+
+#: inc/qrcode.class.php:299
+msgid "Web page of the item"
+msgstr "항목 웹 페이지"

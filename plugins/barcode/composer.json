@@ -1,0 +1,20 @@
+{
+    "name": "glpi-project/barcode",
+    "description": "GLPI barcode and QR code generation plugin",
+    "type": "glpi-plugin",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "glpi-project/tools": "^0.5"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "autoload": {
+        "classmap": [
+            "inc/"
+        ]
+    }
+}

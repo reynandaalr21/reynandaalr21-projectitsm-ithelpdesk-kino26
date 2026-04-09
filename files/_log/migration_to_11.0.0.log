@@ -1,0 +1,208 @@
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_itemantiviruses
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_itemantiviruses
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_entities
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_assets_assets_peripheralassets
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_assets_assets_peripheralassets
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_assets_assets_peripheralassets
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_entities
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_entities
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_dcrooms
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Change of the database layout - glpi_displaypreferences
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Adding unicity indices - glpi_displaypreferences
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Renaming "Event" itemtype to "Glpi\Event"...
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Renaming "Event" itemtype to "Glpi\Event" in all tables...
+2025-12-31 07:05:48 [@glpi-helpdesk]
+Change of the database layout - glpi_knowbaseitems
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_queuednotifications
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_items_plugs
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_items_plugs
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_printerlogs
+2025-12-31 07:05:50 [@glpi-helpdesk]
+States dropdown in devices items forms are now filtered, and, by default, existing states are not visible.
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_ticketvalidations
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_ticketvalidations
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_changevalidations
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Change of the database layout - glpi_changevalidations
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_itemvirtualmachines
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_itemvirtualmachines
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Data migration - glpi_displaypreferences
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_itemantiviruses
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_assets_assets_peripheralassets
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_appliances
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_cables
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_cartridgeitems
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_certificates
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_clusters
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_computers
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_consumableitems
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_databaseinstances
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_domains
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_domainrecords
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_enclosures
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_items_devicesimcards
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_lines
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_monitors
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_networkequipments
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_passivedcequipments
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_pdus
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_peripherals
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_phones
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_printers
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_racks
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_softwares
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_softwarelicenses
+2025-12-31 07:05:51 [@glpi-helpdesk]
+Change of the database layout - glpi_unmanageds
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_authldaps
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_authmails
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_entities
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_changesatisfactions
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_ticketsatisfactions
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_changes_problems
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_changes_tickets
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_problems_tickets
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_users
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_deviceharddrives
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_forms_questions
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_forms_forms
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_forms_answerssets
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_groups
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_impactrelations
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_ticketrecurrents
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_itilfollowuptemplates
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_tickets
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_changes
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_problems
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_tickettemplates
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_changetemplates
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_problemtemplates
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_knowbaseitems
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_locations
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_logs
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_mailcollectors
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_profiles
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_notepads
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_notifications
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_queuednotifications
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_notificationtargets
+2025-12-31 07:05:52 [@glpi-helpdesk]
+Change of the database layout - glpi_pendingreasons
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_items_plugs
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_projecttasks
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_remindertranslations
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_rulematchedlogs
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_solutiontypes
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_states
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_items_devicecameras
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_devicegenerics
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_devicesensors
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_tasktemplates
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_notificationtemplatetranslations
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_items_kanbans
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_ticketvalidations
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_changevalidations
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_itilvalidationtemplates
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Change of the database layout - glpi_itemvirtualmachines
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Adding unicity indices - glpi_printerlogs
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Configuration values added for glpi_11_assets_migration, password_init_token_delay, toast_location, set_followup_tech, set_solution_tech, is_demo_dashboards, planned_task_state, plugins_execution_mode, allow_unauthenticated_uploads, glpinetwork_registration_key, impact_assets_list, timezone, enable_hlapi, glpi_11_form_migration, 2fa_enforced, 2fa_grace_date_start, 2fa_grace_days, 2fa_suffix, non_reusable_passwords_count, projecttask_unstarted_states_id, projecttask_inprogress_states_id, projecttask_completed_states_id, notifications_ajax_expiration_delay, is_notif_enable_default, show_search_form, search_pagination_on_top, user_deleted_ldap_user, user_deleted_ldap_groups, user_deleted_ldap_authorizations (core).
+2025-12-31 07:05:53 [@glpi-helpdesk]
+Update to 11.0.0 version completed.

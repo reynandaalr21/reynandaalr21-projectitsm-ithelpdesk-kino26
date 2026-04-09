@@ -1,0 +1,52 @@
+<?php
+/*
+ * @version $Id: HEADER 15930 2011-10-30 15:47:55Z tsmr $
+ -------------------------------------------------------------------------
+ positions plugin for GLPI
+ Copyright (C) 2009-2022 by the positions Development Team.
+
+ https://github.com/InfotelGLPI/positions
+ -------------------------------------------------------------------------
+
+ LICENSE
+
+ This file is part of positions.
+
+ positions is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+
+ positions is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with positions. If not, see <http://www.gnu.org/licenses/>.
+ --------------------------------------------------------------------------
+ */
+
+use GlpiPlugin\Positions\Position;
+use GlpiPlugin\Positions\Menu;
+
+if (Session::getCurrentInterface() == 'central') {
+   //from central
+   Html::header(Position::getTypeName(), '', "tools", Menu::class, "positions");
+} else {
+   //from helpdesk
+   Html::helpHeader(Position::getTypeName());
+}
+
+if (!isset($_POST["locations_id"])) {
+   $_POST["locations_id"] = 0;
+}
+
+Position::showLocationForm($_POST["locations_id"]);
+
+if (Session::getCurrentInterface() == 'central') {
+   Html::footer();
+} else {
+   Html::helpFooter();
+}
+

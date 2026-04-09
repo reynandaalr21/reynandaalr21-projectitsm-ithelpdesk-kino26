@@ -1,0 +1,30 @@
+2025-12-31 07:05:47 [@glpi-helpdesk]
+New rights has been added for databaseinstance, you should review ACLs after update
+2025-12-31 07:05:47 [@glpi-helpdesk]
+New rights has been added for rule_change, you should review ACLs after update
+2025-12-31 07:05:47 [@glpi-helpdesk]
+Rights have been given for change, you should review ACLs after update
+2025-12-31 07:05:47 [@glpi-helpdesk]
+New rights has been added for defaultfilter, you should review ACLs after update
+2025-12-31 07:05:48 [@glpi-helpdesk]
+New rights has been added for form, you should review ACLs after update
+2025-12-31 07:05:48 [@glpi-helpdesk]
+Rights have been given for followup, you should review ACLs after update
+2025-12-31 07:05:48 [@glpi-helpdesk]
+New rights has been added for itilvalidationtemplate, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+New rights has been added for oauth_client, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+New rights has been added for rule_problem, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Rights has been updated for projecttask, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+New rights has been added for tasktemplate, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Rights has been updated for tasktemplate, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Rights has been updated for tasktemplate, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Rights has been updated for tasktemplate, you should review ACLs after update
+2025-12-31 07:05:50 [@glpi-helpdesk]
+Rights have been given for task, you should review ACLs after update
